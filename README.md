@@ -1,6 +1,7 @@
 ### Bayesian Inference Methods for Skill Estimation in Competitive Games
-
-![image](https://github.com/artaru/True-Skill-Model-Statistical-Inference/assets/79018762/afc2d160-5672-4c86-b567-d15db914f04f)
+<p align="center">
+  <img src="https://github.com/artaru/True-Skill-Model-Statistical-Inference/assets/79018762/afc2d160-5672-4c86-b567-d15db914f04f" />
+</p>
 
 #### Overview
 This project explores two Bayesian inference methods, Hamiltonian Monte Carlo (HMC) and Stochastic Variational Inference (SVI), applied to the TrueSkill model for skill estimation in competitive games. TrueSkill extends traditional rating systems by modeling each player's skill as a latent variable, crucial for predicting game outcomes accurately.
